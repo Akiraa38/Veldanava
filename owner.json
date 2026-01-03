@@ -7,13 +7,5 @@
   {
     "username": "Akira",
     "password": "12"
-  },
-  {
-    "username": "ap",
-    "password": "11",
-    "expired": "Tidak ditentukan",
-    "created_at": "2026-01-02T11:27:04.055Z",
-    "created_by": "Akiraa",
-    "created_role": "owner"
   }
 ]
